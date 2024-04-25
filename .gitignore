@@ -1,3 +1,6 @@
+read_analysis_outputs
+time_experiments_outputs
+fake_fastas
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
